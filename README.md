@@ -1,10 +1,13 @@
-## nomnom
+## nomnom says hi
 AI & Data Science | NLP | Backend Development | Building Real-World AI Systems
+
 
 What I’m Building
 NLP Applications. Recommendation Systems. AI-Driven Solutions.
 
+
 Turning ideas into working systems through data, machine learning, and backend development.
+
 
 Current Focus
 NLP & Machine Learning
@@ -16,7 +19,8 @@ Understanding AI beyond just model outputs
 
 Worked on projects like Resume Screening, Fake News Detection, and AI-based Skill Gap Analysis systems using Python, TF-IDF, BERT, and spaCy.
 
-I like data. I like systems. I like building things that solve real problems.
+
+I like ai. I like systems. I like building things that solve real problems.
 
 Prefer understanding how AI works behind the scenes instead of only using prebuilt tools.
 
