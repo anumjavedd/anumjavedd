@@ -2,14 +2,14 @@
 AI & Data Science | NLP | Backend Development | Building Real-World AI Systems
 
 
-What I’m Building
+## What I’m Building
 NLP Applications. Recommendation Systems. AI-Driven Solutions.
 
 
 Turning ideas into working systems through data, machine learning, and backend development.
 
 
-Current Focus
+## Current Focus
 NLP & Machine Learning
 Recommendation Systems
 AI-Powered Web Applications
